@@ -31,6 +31,6 @@
 	</ul>
 	<br><br>
 	<center><p><font size="3">&copy; 2025, Arif Publications, Inc.</font></p>
-</center>
+	</center>
 </body>
 </html>
