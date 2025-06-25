@@ -23,11 +23,11 @@
 	<br><br>
 	<h3>Contents</h3>
 	These following are the contents included in this website:-<ul>
-		<li><a href="file:///C:/Users/User/OneDrive/Desktop/website.html/introbg.html">Introduction & Background</a></li>
-		<li><a href="file:///C:/Users/User/OneDrive/Desktop/website.html/mylifeevents.html">Life Events</a></li>
-		<li><a href="file:///C:/Users/User/OneDrive/Desktop/website.html/myclosecontacts.html">Close Contacts: Families & Friends</a></li>
-		<li><a href="file:///C:/Users/User/OneDrive/Desktop/website.html/education.html">Education Background</a></li>
-		<li><a href="file:///C:/Users/User/OneDrive/Desktop/website.html/lifelessons.html">Life Lessons</a></li>
+		<li><a href="introbg.html">Introduction & Background</a></li>
+		<li><a href="mylifeevents.html">Life Events</a></li>
+		<li><a href="myclosecontacts.html">Close Contacts: Families & Friends</a></li>
+		<li><a href="education.html">Education Background</a></li>
+		<li><a href="lifelessons.html">Life Lessons</a></li>
 	</ul>
 	<br><br>
 	<center><p><font size="3">&copy; 2025, Arif Publications, Inc.</font></p>
